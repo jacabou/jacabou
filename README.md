@@ -1,6 +1,6 @@
 # Introduction
 
-Um pequeno teste de importação de imagens e mídias de outro repositório privado da organização.
+Um pequeno teste de importação de imagens e mídias de outro repositório (chamado home) da organização.
 
 <figure>
 <p  align=center>
